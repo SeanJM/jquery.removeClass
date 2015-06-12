@@ -2,7 +2,7 @@
   "name": "jquery-remove-class",
   "title": "jQuery Remove Class",
   "description": "A jQuery plugin which adds the ability to remove classes using multiple arguments, coma seperated strings and regular expressions.",
-  "version": "0.5.1",
+  "version": "0.5.1.1",
   "main": "src/jquery.removeClass.js",
   "author": {
     "name": "Sean James MacIsaac",

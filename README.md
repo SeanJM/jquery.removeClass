@@ -15,4 +15,4 @@ A plugin for replacing jQuery's current jQuery.fn.removeClass with one which tak
 
 #### Flexibility (RegExp with classic usage and multiple arguments)
 
-    $(element).removeClass(/className(|[0-9]+)/g, 'anotherClass, anotherClass', 'yetAnother');
+    $(element).removeClass(/className(|[0-9]+)/g, 'anotherClass anotherClass', 'yetAnother');
