@@ -3,7 +3,7 @@ A plugin for replacing jQuery's current jQuery.fn.removeClass with one which tak
 
 #### Classic Usage
 
-    $(element).removeClass('className, className2, className3');
+    $(element).removeClass('className className2 className3');
 
 #### Multiple arguments
 
