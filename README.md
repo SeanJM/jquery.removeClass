@@ -1,5 +1,5 @@
 # jQuery Remove Class
-#### A plugin for replacing jQuery's current jQuery.fn.removeClass with one which takes multiple arguments including regular expressions
+A plugin for replacing jQuery's current jQuery.fn.removeClass with one which takes multiple arguments including regular expressions
 
 ### Classic Usage
 
